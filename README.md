@@ -1,6 +1,6 @@
 # Starter Web Project
 
-
+Adding a file for rebasiing prurpose
 This repository is for showing how Git and GitHub work
 
 ## Introduction
@@ -13,7 +13,7 @@ This repository is for showing how Git and GitHub work
 
 ##How to Contribute
 
-Please fork this repo and then issue a pull request for a review
+Please fork this repo and then issue a pull request for a revieiw
 
 ###Copyright
 
