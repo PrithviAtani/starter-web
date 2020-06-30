@@ -17,4 +17,4 @@ Please fork this repo and then issue a pull request for a revieiw
 
 ###Copyright
 
-Sample website with plenty of files for demos
+All rights reserved
