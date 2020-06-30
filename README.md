@@ -9,6 +9,8 @@ This repository is for showing how Git and GitHub work
 
 ##Deployment
 
+"This is just random text to create a commit error"
+
 ##How to Contribute
 
 Sample website with plenty of files for demos
