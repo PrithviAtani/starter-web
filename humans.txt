@@ -7,6 +7,7 @@ i# The humans responsible & technology colophon
 
 # THANKS
 
+thank you students
     <name>
 
 # TECHNOLOGY COLOPHON
