@@ -12,6 +12,8 @@ Please leave a review
     <name>
 
 # TECHNOLOGY COLOPHON
+random texts OK OK
+
 
     HTML5, CSS3
     jQuery, Modernizr
